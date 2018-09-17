@@ -1,3 +1,4 @@
+#! python3
 import requests , bs4 , os , time , zipfile , random , sys
 
 if sys.platform in ["linux","linux2"]:
