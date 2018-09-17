@@ -5,7 +5,7 @@
 
 # INSTALLATION
 
-+ https://github.com/beneameenth/proxy-GR
++ git clone https://github.com/beneameenth/proxy-GR
 
 
 + cd access_token
