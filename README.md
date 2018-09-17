@@ -15,7 +15,7 @@
  IN LINUX :
  + apt-get install python3
  + apt-get install python3-pip
- + install -r requirements
+ + pip3 install -r requirements
  
 IN WIN OR TERMUX :
  
