@@ -5,7 +5,7 @@
 
 # INSTALLATION
 
-+ git clone https://github.com/beneameenth/proxy-GR
++ git clone https://github.com/ph-root/proxy-GR
 
 
 + cd proxy-GR
