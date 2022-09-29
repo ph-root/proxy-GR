@@ -1,7 +1,7 @@
 # proxy-GR
-+ Massive Proxy Grabber Written by python 
-+ This bot grab proxies from everywhere so you can use them.
-+ this bot can grab more than 300K fresh proxies only in 2 min.
++ Python-based Massive Proxy Grabber.
++ This bot grabs proxies from public websites so you can use them.
++ This bot can grab more than 300K fresh proxies in just 2 minutes.
 
 # INSTALLATION
 
