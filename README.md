@@ -32,7 +32,4 @@ IN WIN OR TERMUX:
 
 ![alt text](https://serving.photos.photobox.com/318482196a9d4f62a752dce921987b70b36aea6af8426eaf780a0e8bcca35db717fbc9bb.jpg)
 
-# CONTACT ME :
-+           CODER : BEN_TH                       
-+           FB : www.facebook.com/bassem.beso.18659         
       
